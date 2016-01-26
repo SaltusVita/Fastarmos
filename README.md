@@ -1,0 +1,2 @@
+# Fastarmos
+Abstract site constructor.
